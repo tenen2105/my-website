@@ -141,20 +141,24 @@ h1, h3, p{
   .cards__item {
     margin-bottom: 2rem;
   }
+
+  .cards-title{
+    font-size: 150%;
+  }
   .cards-text{
     padding: 1rem;
     font-size: 110%;
-    width: 70%;
-    text-align: center;  
+    margin: auto;
+    width: 110%; 
   }
 
   .photo-container > h1 {
     font-size: 40px;
-    margin-top: -400px;
+    margin-top: -170px;
 }
 
 .photo-container > p {
     font-size: 20px;
-    margin-top: -400px;
+    margin-bottom: 110px;
 }   
 }
