@@ -153,12 +153,12 @@ h1, h3, p{
   }
 
   .photo-container > h1 {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: -170px;
 }
 
 .photo-container > p {
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 110px;
-}   
+} 
 }
