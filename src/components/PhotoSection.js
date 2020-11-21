@@ -8,7 +8,7 @@ function PhotoSection(props) {
     return (
         <div className="cards">
             
-            <h1>Check out these EPIC Destinations!</h1>
+            <h1 className="cards-title">Check out these EPIC Destinations!</h1>
             
                 <p className="cards-text">Whether you are an amateur or a professional photographer,  
                 photography is more than just a skill or talent. It's a passion that needs 
